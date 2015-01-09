@@ -144,6 +144,7 @@ set showmatch matchtime=1
 " set ts=4 sw=4 sts=4
 set tabstop=4
 set shiftwidth=4
+" タブキー入力時半角スペースにする
 set expandtab
 " 自動的にインデントする
 set autoindent
