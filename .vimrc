@@ -143,6 +143,8 @@ set showmatch matchtime=1
 " タブを設定
 " set ts=4 sw=4 sts=4
 set tabstop=4
+set shiftwidth=4
+set expandtab
 " 自動的にインデントする
 set autoindent
 " Cインデントの設定
