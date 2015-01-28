@@ -261,6 +261,8 @@ nnoremap j gj
 nnoremap k gk
 nnoremap l <Right>zv
 nnoremap <Leader>o i<CR><ESC>
+" Ctrl+eでNERDTreeを開く
+nnoremap <silent><C-e> :NERDTreeToggle<CR>
 
 "----------------------------------------
 " 挿入モード
