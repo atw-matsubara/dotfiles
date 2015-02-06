@@ -1,6 +1,5 @@
 "=============================================================================
-"    Description: .vimrc
-"         Author: matsubara 
+"    Description: .vimrcサンプル設定
 "=============================================================================
 set nocompatible
 scriptencoding cp932
@@ -428,15 +427,15 @@ NeoBundle 'tpope/vim-surround'
 NeoBundle 'open-browser.vim'
 NeoBundle 'mattn/webapi-vim'
 NeoBundle 'hail2u/vim-css3-syntax'
-NeoBundle 'taichouchou2/html5.vim'
-NeoBundle 'taichouchou2/vim-javascript'
+"NeoBundle 'taichouchou2/html5.vim'
+"NeoBundle 'taichouchou2/vim-javascript'
 NeoBundle 'kchmck/vim-coffee-script'
 NeoBundle 'Lokaltog/vim-easymotion'
 NeoBundle 'tmhedberg/matchit'
 "NeoBundle 'tell-k/vim-browsereload-mac' MacOnly
 
 " 補完
-NeoBundle 'taichouchou2/vim-rsense'
+"NeoBundle 'taichouchou2/vim-rsense'
 
 "コメント
 NeoBundle 'tomtom/tcomment_vim'
@@ -450,7 +449,7 @@ NeoBundle 'Shougo/neocomplcache.vim'
 
 " reference環境
 NeoBundle 'thinca/vim-ref'
-NeoBundle 'taichouchou2/vim-ref-ri'
+"NeoBundle 'taichouchou2/vim-ref-ri'
 "NeoBundle 'taq/vim-rspec'
 
 " マークダウンエディタ
